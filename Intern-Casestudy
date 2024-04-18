@@ -1,0 +1,24 @@
+1. Compare the ‘Magnificent 7’ stock performance 7-10 days (about 1 and a half weeks) prior to earnings and after earnings. Pick earnings reports reported in January for each of the companies. Be specific on details - was there buying, selling, options activity increase prior to release announcement? give a buy/sell/hold recommendation for each of the M7 and why.
+2. Come up with 5-7 stocks you recommend investing in to take advantage of popular themes (Football season, shopping, home builders, EV/charging). Give a price range and specific long/short. Give your 1– 2-year prediction on the theme.
+3. Pick 3 stocks each of utilities, industrials, materials, and commodities. Suggest a holding period with entry/exit targets. (Extra credit: find ETFs for pair/sector trading)
+
+4. Back test below trades (All trades are Long biased)
+
+Security
+Buy Price
+Buy Date
+12/13/23 12/27/23 12/13/23 1/8/24 1/9/24 1/22/24
+Sell Price
+$40.93 $60.30 $534.91 $115.34 $85.04 $80.44
+Sell Date
+2/2/24 1/12/24 1/9/24 1/22/24 1/16/24 2/6/24
+DKNG $37.35 CELH $54.98 NVDA $484.73 NAIL $104.31 ROKU $92.47 OKTA $84.47
+
+5. Suggest 3 daily income (trades) strategies to automate via algorithms (python or other scripts). The hold time will be intraday and hold time is between 1 minute to 6 hours.
+Ex: TQQQ/SQQQ, SPY, (any stock with a high average true range), moving average crossover. Daily high/low.
+
+6. Create a portfolio with the stock identified in question 3 and determine investment weights for all 3 securities. Run a regression to identify beta and alpha and determine at le ast 2 investment risk indicators.
+
+7. Identify 2 possible securities to add to the portfolio created in question 6 and determine which one is best suited for an addition to the original portfolio. What would make you choose one over the other? What will be the revised investment weights and why.
+
+8. Using a fast or slow stochastic write code to execute a trade at a cross, back test for 5 days and determine how many trades are profitable.
